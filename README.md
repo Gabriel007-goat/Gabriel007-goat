@@ -1,24 +1,21 @@
-# Olá! Eu sou o Gabriel Araujo 👋🎮
+# Olá, eu sou o Gabriel! 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=SEU-NOME-DE-USUARIO-AQUI&color=green&style=flat-square)
+Estudante de Tecnologia e Desenvolvedor Front-end em formação técnica. Atualmente, atuo como responsável pela manutenção e evolução da presença digital de projetos focados em Inovação, Educação e Deep Tech na Amazônia.
 
-Sou Game Developer, estudante da **Fundação Matias Machline** em Manaus/AM e apaixonado por transformar a educação através da gamificação. Tenho 16 anos, o que me dá a vantagem de construir jogos e sistemas que realmente prendem a atenção da minha geração, sem aquela cara de "aula chata".
+## 🚀 Atuação Atual
 
-Atualmente, sou parte da Equipe de Desenvolvimento da **Trilha do Aprendiz**, uma EdTech finalista do Prêmio Nacional de Inovação (CNI/Sebrae).
+* **Yakami Tech:** Manutenção do ecossistema web da startup focada em infraestrutura aeroespacial e soberania de dados amazônicos (Projeto validado no NASA Space Apps).
+* **Trilha do Aprendiz:** Gestão do portal da EdTech finalista do Prêmio Nacional de Inovação CNI/Sebrae.
+* **Helen Araujo Advocacia:** Suporte técnico para plataforma institucional focada em Legal Tech e Compliance.
 
-### 🚀 O que estou a construir agora:
-- **APZ Seleção V2:** Trabalhando na refatoração do motor gamificado em Unity (Pixel Art 2D) que avalia *soft skills* de Jovens Aprendizes.
-- **Integração de Inteligência Artificial:** Auxiliando na conexão de APIs de IA (LEIA 2.0) nativas em C# para gerar diálogos dinâmicos em NPCs.
-- **Projeto Estúdio:** A estruturar, junto com o Walter Filho, a base técnica para a criação do nosso próprio Estúdio de Desenvolvimento de Games focado em B2B e anúncios gamificados para o Polo Industrial de Manaus.
+## 🛠️ Tecnologias e Ferramentas
 
-### 💻 Tech Stack & Ferramentas:
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Game Design](https://img.shields.io/badge/Game_Design-Pixel_Art-FF7139?style=for-the-badge)
+* **Linguagens:** HTML5, CSS3, JavaScript.
+* **Ferramentas:** Git, GitHub, VS Code.
+* **Foco:** Web Responsiva (Mobile First), UX/UI para plataformas institucionais e Clean Code.
 
-### 🎯 A minha visão:
-Acredito que a gamificação é a linguagem nativa para uma comunicação eficiente com todas as faixas etárias, mas com foco especial nos jovens. O meu objetivo é criar mecânicas e cenários que transformem o recrutamento, o ensino e o ESG das empresas numa experiência imersiva e de alto impacto.
+## 📊 Estatísticas
+![Stats de Gabriel](https://github-readme-stats.vercel.app/api?username=gabriel007&show_icons=true&theme=radical)
 
 ---
-📫 **Como falar comigo:** [Coloca o teu Link do LinkedIn aqui] | 🏢 **Org:** [@Trilha-do-Aprendiz](https://github.com/Trilha-do-Aprendiz)
+📫 **Como me encontrar:** Através dos repositórios da [Yakami Tech](https://github.com/erickthenight/yakami-website) ou via [LinkedIn](www.linkedin.com/in/gabriel-araújo-dias-b67829402).
